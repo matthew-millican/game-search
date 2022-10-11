@@ -1,4 +1,4 @@
-# game-search
+# Game Search 
 
 ### Purpose
 
@@ -19,6 +19,7 @@ JUnit tests are used to run the algorithms a variety of times, and store the res
 ### How To Run
 
 A makefile is included in the src repository which contains all the instructions on how to run the variety  of programs.
+
 
 
 
